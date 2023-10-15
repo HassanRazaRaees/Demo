@@ -1,4 +1,4 @@
 # Demo
 This is my demo git repository 
 <br>
-Author - Hassan 
+Author - Hassan Raza 
